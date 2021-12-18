@@ -1,4 +1,4 @@
-# otus-vue
+# Multi Social
 
 ## Project setup
 ```
